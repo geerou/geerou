@@ -1,0 +1,63 @@
+{
+  "name": "Basic Example",
+  "children": [
+    {
+      "name": "Parent 1",
+      "children": [
+        {
+          "name": "First Child 1",
+          "children": [
+            {
+              "name": "Second Child 1",
+              "colour": "#f9f0ab"
+            },
+            {
+              "name": "Second Child 2",
+              "colour": "#e8e596"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Parent 2",
+      "children": [
+        {
+          "name": "First Child 1",
+          "children": [
+            {
+              "name": "Second Child 1",
+              "children": [
+                {
+                  "name": "Third Child 1",
+                  "colour": "#f9f0ab"
+                },
+                {
+                  "name": "Third Child 2",
+                  "colour": "#e8e596"
+                }
+              ]
+            },
+            {
+              "name": "First Child 2",
+              "children": [
+                {
+                  "name": "Third Child 1",
+                  "colour": "#f0e2a3"
+                },
+                {
+                  "name": "Third Child 2",
+                  "colour": "#ede487"
+                },
+                {
+                  "name": "Third Child 3",
+                  "colour": "#ede487"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
