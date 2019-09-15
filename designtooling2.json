@@ -12,10 +12,12 @@
               "size" : 2000
             },
             {
-              "name" : "Axure RP"
+              "name" : "Axure RP",
+              "size" : 2000
             },
             {
-              "name" : "AdobeCC"
+              "name" : "AdobeCC",
+              "Number" : 2000
             }
           ]
         },
