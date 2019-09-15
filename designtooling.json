@@ -8,16 +8,13 @@
           "name" : "Design",
           "children" : [
             {
-              "name" : "Sketch",
-              "size" : 3938
+              "name" : "Sketch"
             },
             {
-              "name" : "Axure RP",
-              "size" : 3812
+              "name" : "Axure RP"
             },
             {
-              "name" : "AdobeCC",
-              "size" : 3812
+              "name" : "AdobeCC"
             }
           ]
         },
@@ -25,16 +22,13 @@
           "name" : "Prototyping",
           "children" : [
             {
-              "name" : "AxureRP",
-              "size" : 3534
+              "name" : "AxureRP"
             },
             {
-              "name" : "Invision",
-              "size" : 5731
+              "name" : "Invision"
             },
             {
-              "name" : "ProtoPie",
-              "size" : 7840
+              "name" : "ProtoPie"
             }
           ]
         },
@@ -42,12 +36,10 @@
           "name" : "Research",
           "children" : [
             {
-              "name" : "UsabilityHub",
-              "size" : 7074
+              "name" : "UsabilityHub"
             },
             {
-              "name" : "11FS Pulse",
-              "size" : 7074
+              "name" : "11FS Pulse"
             }
           ]
         },
@@ -55,16 +47,13 @@
           "name" : "Workflow",
           "children" : [
             {
-              "name" : "Abstract",
-              "size" : 7074
+              "name" : "Abstract"
             },
             {
-              "name" : "Craft",
-              "size" : 7074
+              "name" : "Craft"
             },
             {
-              "name" : "Zeplin",
-              "size" : 7074
+              "name" : "Zeplin"
             }
           ]
         }
@@ -75,33 +64,26 @@
       "children" : [
         {
           "name" : "Design",
-          "size" : 17010,
           "children" : [
             {
-              "name" : "Sketch",
-              "size" : 3938
+              "name" : "Sketch"
             },
             {
-              "name" : "AdobeCC",
-              "size" : 3812
+              "name" : "AdobeCC"
             }
           ]
         },
         {
           "name" : "Prototyping",
-          "size" : 5842,
           "children" : [
             {
-              "name" : "AxureRP",
-              "size" : 3534
+              "name" : "AxureRP"
             },
             {
-              "name" : "Invision",
-              "size" : 5731
+              "name" : "Invision"
             },
             {
-              "name" : "ProtoPie",
-              "size" : 7840
+              "name" : "ProtoPie"
             }
           ]
         },
@@ -109,30 +91,24 @@
           "name" : "Research",
           "children" : [
             {
-              "name" : "FengGUI",
-              "size" : 2047
+              "name" : "FengGUI"
             },
             {
-              "name" : "11FS Pulse",
-              "size" : 7074
+              "name" : "11FS Pulse"
             }
           ]
         },
         {
           "name" : "Workflow",
-          "size" : 1041,
           "children" : [
             {
-              "name" : "Abstract",
-              "size" : 7074
+              "name" : "Abstract"
             },
             {
-              "name" : "Craft",
-              "size" : 7074
+              "name" : "Craft"
             },
             {
-              "name" : "Zeplin",
-              "size" : 7074
+              "name" : "Zeplin"
             }
           ]
         }
@@ -143,35 +119,28 @@
       "children" : [
         {
           "name" : "Usability Testing",
-          "size" : 1759,
           "children" : [
             {
-              "name" : "Lookback",
-              "size" : 2047
+              "name" : "Lookback"
             },
             {
-              "name" : "UsabilityHUB",
-              "size" : 7074
+              "name" : "UsabilityHUB"
             }
           ]
         },
         {
           "name" : "Competitor Insights",
-          "size" : 2165,
           "children" : [
             {
-              "name" : "11FS Pulse",
-              "size" : 2047
+              "name" : "11FS Pulse"
             }
           ]
         },
         {
           "name" : "Research Studies",
-          "size" : 586,
           "children" : [
             {
-              "name" : "Optimal Workshop",
-              "size" : 2047
+              "name" : "Optimal Workshop"
             }
           ]
         }
