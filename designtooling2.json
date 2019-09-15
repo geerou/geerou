@@ -8,7 +8,8 @@
           "name" : "Design",
           "children" : [
             {
-              "name" : "Sketch"
+              "name" : "Sketch",
+              "size" : 2000
             },
             {
               "name" : "Axure RP"
