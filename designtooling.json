@@ -1,0 +1,181 @@
+{
+  "name" : "flare",
+  "children" : [
+    {
+      "name" : "User Experience",
+      "children" : [
+        {
+          "name" : "Design",
+          "children" : [
+            {
+              "name" : "Sketch",
+              "size" : 3938
+            },
+            {
+              "name" : "Axure RP",
+              "size" : 3812
+            },
+            {
+              "name" : "AdobeCC",
+              "size" : 3812
+            }
+          ]
+        },
+        {
+          "name" : "Prototyping",
+          "children" : [
+            {
+              "name" : "AxureRP",
+              "size" : 3534
+            },
+            {
+              "name" : "Invision",
+              "size" : 5731
+            },
+            {
+              "name" : "ProtoPie",
+              "size" : 7840
+            }
+          ]
+        },
+        {
+          "name" : "Research",
+          "children" : [
+            {
+              "name" : "UsabilityHub",
+              "size" : 7074
+            },
+            {
+              "name" : "11FS Pulse",
+              "size" : 7074
+            }
+          ]
+        },
+        {
+          "name" : "Workflow",
+          "children" : [
+            {
+              "name" : "Abstract",
+              "size" : 7074
+            },
+            {
+              "name" : "Craft",
+              "size" : 7074
+            },
+            {
+              "name" : "Zeplin",
+              "size" : 7074
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "User Interface",
+      "children" : [
+        {
+          "name" : "Design",
+          "size" : 17010,
+          "children" : [
+            {
+              "name" : "Sketch",
+              "size" : 3938
+            },
+            {
+              "name" : "AdobeCC",
+              "size" : 3812
+            }
+          ]
+        },
+        {
+          "name" : "Prototyping",
+          "size" : 5842,
+          "children" : [
+            {
+              "name" : "AxureRP",
+              "size" : 3534
+            },
+            {
+              "name" : "Invision",
+              "size" : 5731
+            },
+            {
+              "name" : "ProtoPie",
+              "size" : 7840
+            }
+          ]
+        },
+        {
+          "name" : "Research",
+          "children" : [
+            {
+              "name" : "FengGUI",
+              "size" : 2047
+            },
+            {
+              "name" : "11FS Pulse",
+              "size" : 7074
+            }
+          ]
+        },
+        {
+          "name" : "Workflow",
+          "size" : 1041,
+          "children" : [
+            {
+              "name" : "Abstract",
+              "size" : 7074
+            },
+            {
+              "name" : "Craft",
+              "size" : 7074
+            },
+            {
+              "name" : "Zeplin",
+              "size" : 7074
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "User Research",
+      "children" : [
+        {
+          "name" : "Usability Testing",
+          "size" : 1759,
+          "children" : [
+            {
+              "name" : "Lookback",
+              "size" : 2047
+            },
+            {
+              "name" : "UsabilityHUB",
+              "size" : 7074
+            }
+          ]
+        },
+        {
+          "name" : "Competitor Insights",
+          "size" : 2165,
+          "children" : [
+            {
+              "name" : "11FS Pulse",
+              "size" : 2047
+            }
+          ]
+        },
+        {
+          "name" : "Research Studies",
+          "size" : 586,
+          "children" : [
+            {
+              "name" : "Optimal Workshop",
+              "size" : 2047
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
