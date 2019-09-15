@@ -1,0 +1,150 @@
+{
+  "name" : "flare",
+  "children" : [
+    {
+      "name" : "User Experience",
+      "children" : [
+        {
+          "name" : "Design",
+          "children" : [
+            {
+              "name" : "Sketch"
+            },
+            {
+              "name" : "Axure RP"
+            },
+            {
+              "name" : "AdobeCC"
+            }
+          ]
+        },
+        {
+          "name" : "Prototyping",
+          "children" : [
+            {
+              "name" : "AxureRP"
+            },
+            {
+              "name" : "Invision"
+            },
+            {
+              "name" : "ProtoPie"
+            }
+          ]
+        },
+        {
+          "name" : "Research",
+          "children" : [
+            {
+              "name" : "UsabilityHub"
+            },
+            {
+              "name" : "11FS Pulse"
+            }
+          ]
+        },
+        {
+          "name" : "Workflow",
+          "children" : [
+            {
+              "name" : "Abstract"
+            },
+            {
+              "name" : "Craft"
+            },
+            {
+              "name" : "Zeplin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "User Interface",
+      "children" : [
+        {
+          "name" : "Design",
+          "children" : [
+            {
+              "name" : "Sketch"
+            },
+            {
+              "name" : "AdobeCC"
+            }
+          ]
+        },
+        {
+          "name" : "Prototyping",
+          "children" : [
+            {
+              "name" : "AxureRP"
+            },
+            {
+              "name" : "Invision"
+            },
+            {
+              "name" : "ProtoPie"
+            }
+          ]
+        },
+        {
+          "name" : "Research",
+          "children" : [
+            {
+              "name" : "FengGUI"
+            },
+            {
+              "name" : "11FS Pulse"
+            }
+          ]
+        },
+        {
+          "name" : "Workflow",
+          "children" : [
+            {
+              "name" : "Abstract"
+            },
+            {
+              "name" : "Craft"
+            },
+            {
+              "name" : "Zeplin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name" : "User Research",
+      "children" : [
+        {
+          "name" : "Usability Testing",
+          "children" : [
+            {
+              "name" : "Lookback"
+            },
+            {
+              "name" : "UsabilityHUB"
+            }
+          ]
+        },
+        {
+          "name" : "Competitor Insights",
+          "children" : [
+            {
+              "name" : "11FS Pulse"
+            }
+          ]
+        },
+        {
+          "name" : "Research Studies",
+          "children" : [
+            {
+              "name" : "Optimal Workshop"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
